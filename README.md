@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maryum59
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Data mining, NLP, Python
-- 🌱 I’m currently learning Generative AI
+- 🌱 I’m currently learning Generative AI and Agentic AI
 - 📫 How to reach me kmarium059@gmail.com
 
 <!---
